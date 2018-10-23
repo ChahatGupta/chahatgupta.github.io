@@ -1,7 +1,7 @@
 # chtgupta.github.io
 ---
 ### Credits
-ryan-andri.github.io for template
+https://github.com/ryan-andri/ryan-andri.github.io for template
 
 https://vincentgarreau.com/particles.js for Particles.js
 
